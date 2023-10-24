@@ -243,7 +243,7 @@ COrrelation for inferencial statistics 除以N-1
 
 ​	
 
-![image-20231018204446964](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231018204446964.png)
+![image-20231018204446964](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231018204446964.png)
 
 为了验证回归的slope B的假设，首先要计算一个t值
 
@@ -425,7 +425,7 @@ Mediation analysis 一般用Path models来表示
 - 三角形 常数
 - 箭头 关系
 
-![image-20231021174304375](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231021174304375.png)
+![image-20231021174304375](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231021174304375.png)
 
 通常：
 
@@ -434,10 +434,10 @@ Mediation analysis 一般用Path models来表示
 - c 从X直达Y的path 包括M之前
 - c' 从X直达Y的path 包括M之后
 - a*b 是间接path
-- ![image-20231021174537363](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231021174537363.png)
+- ![image-20231021174537363](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231021174537363.png)
 - 
 
-![image-20231021174529030](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231021174529030.png)
+![image-20231021174529030](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231021174529030.png)
 
 有：
 
@@ -489,7 +489,7 @@ z-test / **Single simple t-test**：
 
 ​	比较两个独立样本的差距
 
-![image-20231021180119718](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231021180119718.png)
+![image-20231021180119718](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231021180119718.png)
 
 **p-value p值**：
 
@@ -499,7 +499,7 @@ z-test / **Single simple t-test**：
 
 自由度：
 
-![image-20231021180414114](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231021180414114.png)
+![image-20231021180414114](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231021180414114.png)
 
 ##### 16.2 Dependent t-test
 
@@ -614,7 +614,7 @@ $df_{TOTAL} = N -1$
 
 
 
-![image-20231022142535053](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231022142535053.png)
+![image-20231022142535053](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231022142535053.png)
 
 
 
@@ -665,9 +665,9 @@ Main effect和interaction effect是相互独立的
 
 这个因子ANOVA只是多元回归的一个特例
 
-![image-20231022152218900](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231022152218900.png)
+![image-20231022152218900](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231022152218900.png)
 
-![image-20231022152229278](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231022152229278.png)
+![image-20231022152229278](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231022152229278.png)
 
 还需要：
 
@@ -686,7 +686,7 @@ Partial $\eta^2 $ 可以消除其他sysmetric effects，即消除A或B的影响�
 
 ​	$\eta^2 = SS_{effect}/(SS_{effect}+SS_{TOTAL})$
 
-![image-20231022152649748](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231022152649748.png)
+![image-20231022152649748](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231022152649748.png)
 
 需要的假设与ANOVA相同
 
@@ -705,9 +705,9 @@ paired sample ttest 对应这一部分
 
   
 
-![image-20231022161406719](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231022161406719.png)
+![image-20231022161406719](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231022161406719.png)
 
- ![image-20231022161904744](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231022161904744.png)
+ ![image-20231022161904744](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231022161904744.png)
 
 **缺点：**
 
@@ -750,7 +750,7 @@ $df = \#\ of\ categories - 1$
 
 ​	using Cramér's V estimates effect size 
 
-![image-20231023141438572](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231023141438572.png)
+![image-20231023141438572](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231023141438572.png)
 
 ##### 18.2 chi-square test of independence
 
@@ -772,7 +772,7 @@ $df = (\#\ of\ rows- 1)\times(\#\ of\ cols- 1)$
 
 ​	using Cramér's V estimates effect size 
 
-![image-20231023142610815](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231023142610815.png)
+![image-20231023142610815](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231023142610815.png)
 
 计算 **Expected Frequencies**
 
@@ -789,13 +789,13 @@ $df = (\#\ of\ rows- 1)\times(\#\ of\ cols- 1)$
 
 - 适合的每个cell（每个自变量x因变量形成的cell）的数量
 
-![image-20231023143254659](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231023143254659.png)
+![image-20231023143254659](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231023143254659.png)
 
 数据量要足够
 
 - 独立性
 
-![image-20231023143333847](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231023143333847.png)
+![image-20231023143333847](https://github.com/PinganYANG/growup_notebooks/blob/main/statistics_one/images/image-20231023143333847.png)
 
 #### 19 Binary Logistic Regression
 
